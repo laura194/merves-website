@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/merves-website/static/css/main.79de45a7.css",
+    "main.js": "/merves-website/static/js/main.f61872d1.js",
+    "static/media/background.svg": "/merves-website/static/media/background.1899f6f55b0bb1402109.svg",
+    "index.html": "/merves-website/index.html",
+    "static/media/Arrow.svg": "/merves-website/static/media/Arrow.1c5124e9005b463443abcb3edc1ed9d7.svg",
+    "main.79de45a7.css.map": "/merves-website/static/css/main.79de45a7.css.map",
+    "main.f61872d1.js.map": "/merves-website/static/js/main.f61872d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79de45a7.css",
+    "static/js/main.f61872d1.js"
+  ]
+}
